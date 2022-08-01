@@ -1,0 +1,15 @@
+C:\Users\Matt\Desktop\CodingDojo\CSharp\Assignments\puzzles\puzzlesAssignment\bin\Debug\net6.0\puzzlesAssignment.exe
+C:\Users\Matt\Desktop\CodingDojo\CSharp\Assignments\puzzles\puzzlesAssignment\bin\Debug\net6.0\puzzlesAssignment.deps.json
+C:\Users\Matt\Desktop\CodingDojo\CSharp\Assignments\puzzles\puzzlesAssignment\bin\Debug\net6.0\puzzlesAssignment.runtimeconfig.json
+C:\Users\Matt\Desktop\CodingDojo\CSharp\Assignments\puzzles\puzzlesAssignment\bin\Debug\net6.0\puzzlesAssignment.dll
+C:\Users\Matt\Desktop\CodingDojo\CSharp\Assignments\puzzles\puzzlesAssignment\bin\Debug\net6.0\puzzlesAssignment.pdb
+C:\Users\Matt\Desktop\CodingDojo\CSharp\Assignments\puzzles\puzzlesAssignment\obj\Debug\net6.0\puzzlesAssignment.csproj.AssemblyReference.cache
+C:\Users\Matt\Desktop\CodingDojo\CSharp\Assignments\puzzles\puzzlesAssignment\obj\Debug\net6.0\puzzlesAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matt\Desktop\CodingDojo\CSharp\Assignments\puzzles\puzzlesAssignment\obj\Debug\net6.0\puzzlesAssignment.AssemblyInfoInputs.cache
+C:\Users\Matt\Desktop\CodingDojo\CSharp\Assignments\puzzles\puzzlesAssignment\obj\Debug\net6.0\puzzlesAssignment.AssemblyInfo.cs
+C:\Users\Matt\Desktop\CodingDojo\CSharp\Assignments\puzzles\puzzlesAssignment\obj\Debug\net6.0\puzzlesAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Matt\Desktop\CodingDojo\CSharp\Assignments\puzzles\puzzlesAssignment\obj\Debug\net6.0\puzzlesAssignment.dll
+C:\Users\Matt\Desktop\CodingDojo\CSharp\Assignments\puzzles\puzzlesAssignment\obj\Debug\net6.0\refint\puzzlesAssignment.dll
+C:\Users\Matt\Desktop\CodingDojo\CSharp\Assignments\puzzles\puzzlesAssignment\obj\Debug\net6.0\puzzlesAssignment.pdb
+C:\Users\Matt\Desktop\CodingDojo\CSharp\Assignments\puzzles\puzzlesAssignment\obj\Debug\net6.0\puzzlesAssignment.genruntimeconfig.cache
+C:\Users\Matt\Desktop\CodingDojo\CSharp\Assignments\puzzles\puzzlesAssignment\obj\Debug\net6.0\ref\puzzlesAssignment.dll
